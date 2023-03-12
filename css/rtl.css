@@ -1,0 +1,11 @@
+html {
+    direction: rtl;
+}
+
+header .sale .priceAfter::after {
+    right: -25px;
+}
+
+nav .left {
+    direction: ltr;
+}
